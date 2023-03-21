@@ -1,3 +1,4 @@
+![darts](https://user-images.githubusercontent.com/44240533/226491799-c4fe6377-ee93-4391-9986-37ee68e2406b.svg)
 # Darts
 
 Welcome to Darts on Exercism's Java Track.
